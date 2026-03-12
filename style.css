@@ -1,0 +1,36 @@
+body{
+  font-family: sans-serif;
+   background-color:#DCDCDC;
+  
+}
+
+/*Зроби цей сайт красивим 😉*/
+
+header{
+    text-align: center;
+    background-color: #696969;
+}
+
+a{
+    color: blue;
+    background-color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+
+nav{
+    padding: 10px;
+}
+
+main{
+    text-align: left;
+    
+}
+
+footer{
+    text-align: center;
+}
+ 
+p{
+    font-size:25px;
+}
